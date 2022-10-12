@@ -43,7 +43,7 @@ Users should be able to:
 
 ### What I learned
 
-I learned how to use grid-template-areas which I find quite useful.
+I learned how to use grid-template-areas, which I find quite useful.
 
 ### Continued development
 
